@@ -75,7 +75,7 @@ export default function Home() {
                   <p className="text-xs font-semibold uppercase tracking-[0.24em] text-[#6b5f52]">
                     Deploy snapshot
                   </p>
-                  <p className="text-xl font-semibold">CI/CD overview</p>
+                  <p className="text-xl font-semibold">CI/CD overviewsdasdasdsa</p>
                 </div>
                 <span className="rounded-full bg-[#fef3c7] px-3 py-1 text-xs font-semibold text-[#92400e]">
                   Live
