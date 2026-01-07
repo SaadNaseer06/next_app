@@ -42,7 +42,7 @@ export default function Home() {
             <p className="max-w-xl text-lg leading-8 text-[#4a4035]">
               A calm workspace that turns Git pushes into confident releases.
               Blend your branding, roadmap, and deploy plan into a single page
-              that feels intentional.
+              that feels crafted for your team.
             </p>
             <div className="flex flex-wrap gap-4">
               <button className="rounded-full bg-[#1f1a14] px-6 py-3 text-sm font-semibold text-[#f6f1e9] transition hover:-translate-y-0.5 hover:bg-[#0f0d0a]">
